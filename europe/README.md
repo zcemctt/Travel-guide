@@ -1,3 +1,3 @@
 # EUROPE
 
-[swiss](/c/Users/zcemc/Desktop/Travel-guide/europe/swiss/README.md)
+[swiss](swiss/README.md)
